@@ -2,9 +2,9 @@ Before running, you need to modify the file paths involved in lines 48 and 50 of
 The involved files can be obtained by running extract_frames.py, extract_SlowFast.py, and extract_audio_feature1.py. Due to the large size of the dataset and the long processing time, you can also directly download them using the provided links.
 
 [swin transformer tiny weight]：https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_tiny_patch4_window7_224.pth
-[images_train]  
-[images_test]  
-[train_slowfast_videos]  
-[test_slowfast_videos]  
-[train_features_audio]  
-[test_features_audio]  
+[images_train]：https://pan.baidu.com/s/1quxDJffpK4HqDiPsKxY6dA?pwd=h2ra  
+[images_test]： https://pan.baidu.com/s/1DRxdk751c95LfRbShSrRcw?pwd=xy5z  
+[train_slowfast_videos]： https://pan.baidu.com/s/1NWeiL0tv2SuKNoavp02OdA?pwd=25q8  
+[test_slowfast_videos]： https://pan.baidu.com/s/1RMxJ0gnifv2ADxUEDvMBtA?pwd=5k28  
+[train_features_audio]： https://pan.baidu.com/s/19tfxsglofpb6qqTFxuOvOg?pwd=egxx  
+[test_features_audio]：https://pan.baidu.com/s/1lbxDSJs3G4JBxmPIskM8Xw?pwd=rv2i  
